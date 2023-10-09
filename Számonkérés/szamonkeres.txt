@@ -1,0 +1,11 @@
+# B. csoport
+
+1. feladat: 1-50 között írd ki az 5-tel osztható számokat
+
+2.feladat: 50-100 között (vizsgáljuk) írjuk ki a páros értékeket
+
+3.feladat: Kérjünk be a felhasználótól 10 db egész számot és mindegyik számnál vizsgáljuk meg, hogy nagyobb mint 50 kisebb mint 50 vagy egyenlő
+
+4.feladat: Kérjünk be a felhasználótól 3 jelszót és vizsgáljuk meg, hogy az adott jelszó megegyezik alma123 -al
+
+

@@ -1,0 +1,50 @@
+#1.feladat
+"""
+
+for x in range(1,51,5):
+    print(f"Számok: {x} oszthatók 5-el!")
+    
+"""
+
+#2.feladat
+"""
+for x in range(50,101,1):
+    if x % 2 == 0:
+        print(f"A(z) {x} Páros!")
+    else:
+        print(f" A(z) {x} Páratlan!")
+"""
+
+#3.feladat
+
+"""
+
+for x in range(1,11,1):
+    
+    szam = int(input("Kérlek add meg a számot:"))
+    
+if szam > 50:
+    print(f"A {szam}, amit megadtál az nagyobb mint 50!")
+if szam < 50:
+    print(f" A {szam}, amit megadtál az kisebb, mint 50!")
+if szam == 50:
+    print(f" A {szam}, amit megadtál az egyenlő 50-el!")
+    
+"""
+#4. feladat
+"""
+jelszo = "alma123"
+
+for x in range(1,4,1):
+    
+     bekeres = input("Kérlek add meg a jelszavadat:")
+     
+if bekeres == jelszo:
+    print(f" Ez a {bekeres} jelszó megegyezik a jelszavaddal!")
+else:
+    print(f" Ez a {bekeres} jelszó NEM egyezik meg a jelszavaddal!")
+"""
+     
+    
+    
+
